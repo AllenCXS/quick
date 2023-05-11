@@ -14,8 +14,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/lucas-clemente/quic-go"
-	"github.com/smallnest/quick"
+	"github.com/AllenCXS/quick"
+	"github.com/quic-go/quic-go"
 )
 
 func main() {

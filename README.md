@@ -1,6 +1,6 @@
 # a net.Conn compatible lib via QUIC
 
-The initial code is cloned from [quic-conn](https://github.com/marten-seemann/quic-conn), but I refactored and updated codes to keepcompatible with latest https://github.com/lucas-clemente/quic-go.
+The initial code is cloned from [quic-conn](https://github.com/marten-seemann/quic-conn), but I refactored and updated codes to keepcompatible with latest https://github.com/AllenCXS/quick.
 
 
 ## Run the example

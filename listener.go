@@ -4,8 +4,6 @@ import (
 	"context"
 	"crypto/tls"
 	"net"
-
-	"github.com/lucas-clemente/quic-go"
 )
 
 type listener struct {
