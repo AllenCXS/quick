@@ -3,6 +3,7 @@ package quick
 import (
 	"context"
 	"crypto/tls"
+	"github.com/quic-go/quic-go"
 	"net"
 )
 
